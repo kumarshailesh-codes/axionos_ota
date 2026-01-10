@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1767543438,
-      "filename": "axion-2.3-BETA-20260104-UNOFFICIAL-GMS-gauguin.zip",
-      "id": "1f06207df1cf9f7cfe634a7bf6a64b0f",
+      "datetime": 1768030749,
+      "filename": "axion-2.3-TELOS-20260110-UNOFFICIAL-GMS-gauguin.zip",
+      "id": "efb2fec8cab1a924ea06d6b2c54511dd",
       "romtype": "UNOFFICIAL",
-      "size": 2165727904,
-      "url": "https://downloads.sourceforge.net/project/axionos-gauguin/axion-2.3-BETA-20260104-UNOFFICIAL-GMS-gauguin.zip",
+      "size": 2267183497,
+      "url": "https://sourceforge.net/projects/axionos-gauguin/files/axion-2.3-TELOS-20260110-UNOFFICIAL-GMS-gauguin.zip/download",
       "version": "2.3"
     }
   ]
