@@ -1,13 +1,14 @@
 {
     "response": [
         {
-            "datetime": 1768064147,
-            "filename": "axion-2.3-TELOS-20260110-UNOFFICIAL-GMS-gauguin.zip",
-            "id": "10ee9db657c7ca378768a32289a4a432",
+            "datetime": 1770029339,
+            "filename": "axion-2.4-SOLACE-20260202-UNOFFICIAL-GMS-gauguin.zip",
+            "id": "3c23820327e35d62602aff646013598f",
             "romtype": "UNOFFICIAL",
-            "size": 2267264379,
-            "url": "https://gitea.com/samsuddin/Ota_files/media/branch/main/axion-2.3-TELOS-20260110-UNOFFICIAL-GMS-gauguin.zip",
-            "version": "2.3"
+            "size": 2276907612,
+            "url": "https://gitea.com/samsuddin/Ota_files/raw/branch/main/axion-2.4-SOLACE-20260202-UNOFFICIAL-GMS-gauguin.zip",
+            "version": "2.4"
         }
     ]
 }
+
